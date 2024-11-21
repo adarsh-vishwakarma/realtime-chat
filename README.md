@@ -1,8 +1,4 @@
 # ✨ Full Stack Realtime Chat App ✨
-<<<<<<< HEAD
-
-=======
->>>>>>> d6b36fefbf162febc86638deaaddd4dca77109dd
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
@@ -14,22 +10,6 @@ Highlights:
 - ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
 
-<<<<<<< HEAD
-### Setup .env file
-
-```js
-MONGODB_URI=...
-PORT=5001
-JWT_SECRET=...
-
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
- 
-NODE_ENV=development
-```
-=======
->>>>>>> d6b36fefbf162febc86638deaaddd4dca77109dd
 
 ### Build the app
 
